@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Electra Master</string>
+    <string name="title_activity_main">Electra Master</string>
+    <string name="package_name">com.electramaster.www</string>
+    <string name="custom_url_scheme">com.electramaster.www</string>
+</resources>
